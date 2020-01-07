@@ -1,5 +1,5 @@
 # Take A Trick - SKATE
-Android APP - Generador de trucos de skate aleatorios sin repetición
+Android APP - Generador de trucos de skate aleatorios sin repetición.
 
 Link: https://play.google.com/store/apps/details?id=com.rdzsystems.skateburro
 
